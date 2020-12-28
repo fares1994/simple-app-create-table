@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-app-create-table/static/css/main.30d0dcab.chunk.css",
+    "main.js": "/simple-app-create-table/static/js/main.8ad81f09.chunk.js",
+    "main.js.map": "/simple-app-create-table/static/js/main.8ad81f09.chunk.js.map",
+    "runtime-main.js": "/simple-app-create-table/static/js/runtime-main.bdedae60.js",
+    "runtime-main.js.map": "/simple-app-create-table/static/js/runtime-main.bdedae60.js.map",
+    "static/js/2.b871cae3.chunk.js": "/simple-app-create-table/static/js/2.b871cae3.chunk.js",
+    "static/js/2.b871cae3.chunk.js.map": "/simple-app-create-table/static/js/2.b871cae3.chunk.js.map",
+    "static/js/3.ea661870.chunk.js": "/simple-app-create-table/static/js/3.ea661870.chunk.js",
+    "static/js/3.ea661870.chunk.js.map": "/simple-app-create-table/static/js/3.ea661870.chunk.js.map",
+    "index.html": "/simple-app-create-table/index.html",
+    "static/css/main.30d0dcab.chunk.css.map": "/simple-app-create-table/static/css/main.30d0dcab.chunk.css.map",
+    "static/js/2.b871cae3.chunk.js.LICENSE.txt": "/simple-app-create-table/static/js/2.b871cae3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdedae60.js",
+    "static/js/2.b871cae3.chunk.js",
+    "static/css/main.30d0dcab.chunk.css",
+    "static/js/main.8ad81f09.chunk.js"
+  ]
+}
