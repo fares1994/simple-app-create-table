@@ -1,0 +1,11 @@
+table,tr,td{
+    border:3px black solid;
+    border-collapse: collapse;
+}
+tr,td{
+    height: 25px;
+    width: 25px;
+}
+#selected-row #selected-column{
+    background-color: black;
+}
